@@ -1,4 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Open Sans Condensed';
   padding: 2rem 4rem;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  transition: border-bottom 2sec ease-in-out;
 }
